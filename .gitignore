@@ -1,0 +1,4 @@
+dist
+local-resources/print/win-jre/*
+node_modules
+.idea
